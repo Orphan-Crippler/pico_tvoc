@@ -12,4 +12,4 @@ This was a quick thing I threw together to measure Total Volatile Organic Compou
 + 128x64 I2C OLED LCD https://www.amazon.com/gp/product/B0B7RP2CVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 + NeoPixel 8 Stick https://www.adafruit.com/product/1426
 
-So I originally made this project many years ago with the Adafruit CCS811 sensor. Well when I was gathering links for the parts I found out that this sensor breakout has been discontinued by the manufacturer. Luckily there is an upgraded replacement the SGP30 sensor measures the same things and has a few extra features. I will leave CCS811 code and schematics in a folder in case anyone still has one of these lying around.
+So I originally made this project many years ago with the Adafruit CCS811 sensor. Well when I was gathering links for the parts I found out that this sensor breakout has been discontinued by the manufacturer. Luckily there is an upgraded replacement the SGP30 sensor measures the same things and has a few extra features. I will leave the CCS811 code and schematics in a folder in case anyone still has one of these laying around.
