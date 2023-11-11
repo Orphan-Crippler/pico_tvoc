@@ -7,7 +7,7 @@ This was a quick thing I threw together to measure Total Volatile Organic Compou
 
 ## Parts List
 
-+ Raspberry Pi Pico (Pico W) will also work with no code changes.
++ Raspberry Pi Pico (Pico W) will also work with no code changes. https://www.adafruit.com/pico?src=raspberrypi
 + ~~Adafruit CCS811 Sensor~~ This was recently discontinued and replaced by the Adafruit SGP30 https://www.adafruit.com/product/3709
 + 128x64 I2C OLED LCD https://www.amazon.com/gp/product/B0B7RP2CVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 + NeoPixel 8 Stick https://www.adafruit.com/product/1426
