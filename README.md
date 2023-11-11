@@ -3,7 +3,7 @@
 
 ![PXL_20231111_053156907 MP](https://github.com/Orphan-Crippler/pico_tvoc/assets/6201093/53339fda-f87e-4628-ba14-df3d1e3b5163)
 
-This was a quick thing I threw together to measure Total Volatile Organic Compounds in the air where I 3D Print. I have included data sheets for the sensor and the raspberry Pi, the oled screen is just a cheap chinese I2C screen I picked up on Amazon for cheap. So I could not find a data sheet for it. Well let's get to it, shall we.
+This was a quick thing I threw together to measure Total Volatile Organic Compounds in the air where I 3D Print. I have included data sheets for the sensor and the raspberry Pi, the oled screen is just a cheap chinese I2C screen I picked up on Amazon. So I could not find a data sheet for it. Well let's get to it, shall we.
 
 ## Parts List
 
