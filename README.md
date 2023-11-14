@@ -20,3 +20,10 @@ This link has all the information for isntalling Thonny and MicroPython on the R
 + https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0
 
 ## Wiring up the sensor, screen, and LED's
+Follow the schematic for the sensor you are using. The schematics are in their respective folders.
+
+## Copy files to Pico using Thonny
+Open the three python files in Thonny. These are downloaded from this repository for the sensor you plan on using. There are multiple ways to add these files to your Pico from Thonny. You must put all three files on the Pico. Once you have then loaded on your Pico you can run the main.py file to test it out. If everything is working you can unplug the Pico from the PC. Your sensor is ready to get to work. At this point you do not need to plug the Pico into a PC and may power it however you please.
+
+## Note on Sensor Placement
+To get truly accurate readings, the sensor must be on your person when measuring. If it is across the room from you it may not accurately reflect TVOC levels where you are in the room. As a precaution you should always have sufficient ventilation in any area you are using a 3D printer.
