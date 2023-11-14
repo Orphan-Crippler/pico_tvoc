@@ -14,16 +14,19 @@ This was a quick thing I threw together to measure Total Volatile Organic Compou
 
 So I originally made this project many years ago with the Adafruit CCS811 sensor. Well when I was gathering links for the parts I found out that this sensor breakout has been discontinued by the manufacturer. Luckily there is an upgraded replacement the SGP30 sensor that measures the same things and has a couple new features. I will leave the CCS811 code and schematics in a folder in case anyone still has one of these laying around. I was finally able to find a working SGP30 driver for Micro Python and have updated the folder and main.py file.
 
+![PXL_20231114_161252020 MP](https://github.com/Orphan-Crippler/pico_tvoc/assets/6201093/d9bf8c2e-3c39-4c18-bc20-a3275dd55acb)
+
 ## Install MicroPython and Thonny
 
-This link has all the information for isntalling Thonny and MicroPython on the Raspberry Pi Pico.
+This link has all the information for isntalling Thonny and MicroPython.
 + https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0
 
 ## Wiring up the sensor, screen, and LED's
 Follow the schematic for the sensor you are using. The schematics are in their respective folders.
 
 ## Copy files to Pico using Thonny
-Open the three python files in Thonny. These are downloaded from this repository for the sensor you plan on using. There are multiple ways to add these files to your Pico from Thonny. You must put all three files on the Pico. Once you have then loaded on your Pico you can run the main.py file to test it out. If everything is working you can unplug the Pico from the PC. Your sensor is ready to get to work. At this point you do not need to plug the Pico into a PC and may power it however you please.
+Open the three python files in Thonny. These are downloaded from this repository for the sensor you plan on using. There are multiple ways to add these files to your Pico from Thonny. You must put all three files on the Pico. Once you have them loaded on your Pico you can run the main.py file to test it out. If everything is working you can unplug the Pico from the PC. Your sensor is ready to get to work. At this point you do not need to plug the Pico into a PC and may power it however you please.
 
 ## Note on Sensor Placement
 To get truly accurate readings, the sensor must be on your person when measuring. If it is across the room from you it may not accurately reflect TVOC levels where you are in the room. As a precaution you should always have sufficient ventilation in any area you are using a 3D printer.
+
