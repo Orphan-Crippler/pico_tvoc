@@ -13,3 +13,10 @@ This was a quick thing I threw together to measure Total Volatile Organic Compou
 + NeoPixel 8 Stick https://www.adafruit.com/product/1426
 
 So I originally made this project many years ago with the Adafruit CCS811 sensor. Well when I was gathering links for the parts I found out that this sensor breakout has been discontinued by the manufacturer. Luckily there is an upgraded replacement the SGP30 sensor that measures the same things and has a couple new features. I will leave the CCS811 code and schematics in a folder in case anyone still has one of these laying around. I was finally able to find a working SGP30 driver for Micro Python and have updated the folder and main.py file.
+
+## Install MicroPython and Thonny
+
+This link has all the information for isntalling Thonny and MicroPython on the Raspberry Pi Pico.
++ https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0
+
+## Wiring up the sensor, screen, and LED's
